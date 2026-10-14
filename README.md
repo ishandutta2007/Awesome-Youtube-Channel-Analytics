@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Youtube-Channel-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-Channel-Analytics?style=flat-square&color=FF0000&logo=youtube" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Youtube-Channel-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-Channel-Analytics?style=flat-square&color=FF0000&logo=youtube" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Channel-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Youtube-Channel-Analytics?style=flat-square&color=orange" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Channel-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Youtube-Channel-Analytics?style=flat-square&color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Channel-Analytics/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -75,7 +75,7 @@ The following table benchmarks category-leading SaaS platforms for YouTube analy
 
 ## 🛠️ Open-Source GitHub Projects
 
-Explore the finest open-source repositories for building self-hosted YouTube analytics stacks, automated reporting bots, and channel intelligence pipelines. Repositories are **sorted descending by GitHub star count**.
+Explore the finest open-source repositories for building self-hosted YouTube analytics stacks, automated reporting bots, and channel intelligence pipelines. Repositories are **sorted descending by GitHub Stars_Count**.
 
 - **[youtube/api-samples](https://github.com/youtube/api-samples)** <a href="https://github.com/youtube/api-samples/stargazers"><img src="https://img.shields.io/github/stars/youtube/api-samples?style=social&color=white" alt="Stars" /></a>  
   *Official code samples from the YouTube Developer Relations team.* Comprehensive reference implementations for the **YouTube Data API v3**, **YouTube Analytics API**, and **YouTube Reporting API** across Python, JavaScript, Java, Go, PHP, Ruby, and .NET. Demonstrates OAuth2 channel token handling, asynchronous bulk report scheduling, and targeted channel metrics retrieval.
@@ -201,7 +201,7 @@ Contributions are warmly welcomed! Help expand this ecosystem:
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/new-analytics-tool`).
-3. 📝 **Add your entry** adhering to the existing format (include name, URL, objective summary, and pricing/star badge).
+3. 📝 **Add your entry** adhering to the existing format (include name, URL, objective summary, and pricing/Stars_Badge).
 4. 📬 **Submit a Pull Request** with a concise description of why the tool adds value to creators or engineers.
 
 Please ensure all submissions adhere to the [Awesome-Awesome-Awesome Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
